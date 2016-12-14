@@ -13,11 +13,11 @@ The First amazing phpMyAdmin theme in the world.
 
 ## Screenshot
 
-![Fallen login](https://storage.googleapis.com/fransallencom.appspot.com/images/fallen-pma3.png)
+![Fallen login](https://storage.googleapis.com/fransallencom.appspot.com/images/fallen-pma-3.png)
 
 ![Fallen home](https://storage.googleapis.com/fransallencom.appspot.com/images/fallen-pma.png)
 
-![Fallen DB](https://storage.googleapis.com/fransallencom.appspot.com/images/fallen-pma2.png)
+![Fallen DB](https://storage.googleapis.com/fransallencom.appspot.com/images/fallen-pma-2.png)
 
 ## LICENSE
 
