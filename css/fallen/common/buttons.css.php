@@ -3,17 +3,14 @@ button {
   color: <?php echo $GLOBALS['cfg']['ButtonColor'] ?>;
   margin-left: 14px;
   padding: 4px;
-  text-decoration: none
+  text-decoration: none;
+  display: inline
 }
 
 .sqlbutton, #tablefieldinsertbuttoncontainer input[type=button] {
   margin-top: 1em;
   margin-left: 0!important;
   margin-right: 14px!important
-}
-
-button {
-  display: inline
 }
 
 button, img {
@@ -25,4 +22,8 @@ button.mult_submit {
   background-color: transparent;
   color: <?php echo $GLOBALS['cfg']['BrowsePointerColor'] ?>;
   margin: 0
+}
+
+.options button {
+  padding: 2px 4px
 }

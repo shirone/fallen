@@ -76,7 +76,8 @@ ul#topmenu a, ul#topmenu span {
   line-height: 28px;
   text-transform: uppercase;
   color: #666;
-  font-weight: normal
+  font-size: 10px;
+  font-weight: 500
 }
 
 ul#topmenu ul a {

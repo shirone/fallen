@@ -22,7 +22,7 @@ input[type=text]:focus, input[type=password]:focus, input[type=number]:focus {
   color: <?php echo $GLOBALS['cfg']['MainColor'] ?>
 }
 
-input[type=submit], input[type=reset], input[type=button] {
+input[type=submit], input[type=reset], input[type=button], .options button {
   background-color: <?php echo $GLOBALS['cfg']['ButtonBackground'] ?>;
   border: 1px solid <?php echo $GLOBALS['cfg']['ButtonBackground'] ?>;
   border-radius: 2px;
@@ -34,18 +34,22 @@ input[type=submit], input[type=reset], input[type=button] {
   text-decoration: none
 }
 
-fieldset.confirmation input[type=submit], input[type=reset], input[type=button] {
+input[type=submit], input[type=reset], input[type=button] {
+  box-shadow: 0 1px 1px <?php echo $GLOBALS['cfg']['BrowseGrayColor'] ?>
+}
+
+fieldset.confirmation legend input[type=submit], fieldset.confirmation legend input[type=button] {
   box-shadow: 0 1px 1px <?php echo $GLOBALS['cfg']['ThColor'] ?>
 }
 
-input[type=submit]:hover, input[type=reset]:hover, input[type=button]:hover {
+input[type=submit]:hover, input[type=reset]:hover, input[type=button]:hover, .options button:hover {
   background-color: <?php echo $GLOBALS['cfg']['ButtonHover'] ?>;
   border: 1px solid <?php echo $GLOBALS['cfg']['ButtonHover'] ?>;
   cursor: pointer;
   position: relative
 }
 
-input[type=submit]:active, input[type=reset]:active, input[type=button]:active {
+input[type=submit]:active, input[type=reset]:active, input[type=button]:active, .options button:active {
   background-color: #333;
   border: 1px solid #333;
   position: relative
