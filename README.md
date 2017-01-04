@@ -5,9 +5,8 @@ The First amazing phpMyAdmin 4 theme in the world.
 ## Usage
 
 * Download Fallen PMA Theme.
-* Unzip **fallen-pma-master**.
-* Rename **fallen-pma-master** to **fallen**.
-* Move to your phpMyAdmin themes directory.
+* Unzip **fallen-master**.
+* Move **fallen** folder to your phpMyAdmin themes directory.
 * Activate "Fallen" from phpMyAdmin dashboard.
 * Done.
 
