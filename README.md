@@ -20,4 +20,4 @@ The First amazing phpMyAdmin 4 theme in the world.
 
 ## LICENSE
 
-Licensed under GPL license. Please see the license file: https://github.com/fransallen/fallen-pma/LICENSE
+Licensed under GPL license. Please see the license file: https://github.com/fransallen/fallen/LICENSE
