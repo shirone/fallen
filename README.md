@@ -2,6 +2,8 @@
 
 The First amazing phpMyAdmin 4 theme in the world.
 
+<p align="center">[![Discuss on Marsble](https://www.marsble.com/images/buttons/discuss_small.png)](https://www.marsble.com/d/2)</p>
+
 ## Usage
 
 * Download Fallen PMA Theme.
